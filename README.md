@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn-bfimj.nitrocdn.com/AYZiVYYULnpCOzBEapjCcUYTWKoTHvaR/assets/static/optimized/rev-6e942e7/wp-content/uploads/2016/04/nature-european-lakes-dark.jpg)](https://zmoussam.io)
+<!-- [![MasterHead](https://images.pexels.com/photos/2730355/pexels-photo-2730355.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)]() -->
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">Software Developer(Embedded) </h3>
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">-->
@@ -32,7 +32,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav083&" alt="pranav083" /></p>
 
-## my contribution 
+<!-- ## my contribution  -->
 
 <!-- ![snake gif](https://github.com/pranav083/pranav083/blob/output/github-contribution-grid-snake.gif) -->
 <!---
