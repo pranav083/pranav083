@@ -1,15 +1,15 @@
 <!-- [![MasterHead](https://images.pexels.com/photos/2730355/pexels-photo-2730355.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)]() -->
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">Software Developer(Embedded) </h3>
+<h3 align="center"> Developer </h3>
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">-->
 <!-- - 🌱 I’m currently learning everything 
 - 🥅 2022 Goals: Learn more about web3 
 <br> -->
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav083&label=Profile%20views&color=0e75b6&style=flat" alt="pranav083" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav083&label=Profile%20views&color=0e75b6&style=flat" alt="pranav083" /> </p> -->
 
-<p align="left"> <a href="https://twitter.com/pranav083" target="blank"><img src="https://img.shields.io/twitter/follow/pranav083?logo=twitter&style=for-the-badge" alt="pranav083" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/pranav083" target="blank"><img src="https://img.shields.io/twitter/follow/pranav083?logo=twitter&style=for-the-badge" alt="pranav083" /></a> </p> -->
 
 <!-- - 🌱 I’m currently learning **MERN, React Native,PHP** -->
 
@@ -17,8 +17,8 @@
 - 📫 Visit My Website at : https://pranav083.github.io/  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pranav083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranav083" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pranav083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav083" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/pranav083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranav083" height="30" width="40" /></a> -->
+<!-- <a href="https://linkedin.com/in/pranav083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav083" height="30" width="40" /></a> -->
 <!-- <a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt=pranav083" height="30" width="40" /></a> -->
 <!-- <a href="https://instagram.com/zakaria_mossami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranav083" height="30" width="40" /></a> -->
 </p>
